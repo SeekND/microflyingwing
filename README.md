@@ -1,8 +1,9 @@
 # Micro Flying Wing
 
 These are the plans for a 3" flying wing.
+You can find the plans under **Plans** folder and the added STL's to mount the motor or all electronics under the **STL** folder. 
 
-You can see the several iterations the wing went through in the following videos:
+You can also see the several iterations the wing went through in the following videos:
 
 ## Tiny whoop controller in Tiny Whoop format:
 https://www.youtube.com/watch?v=xWtqxx2DlH4

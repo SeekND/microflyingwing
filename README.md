@@ -6,7 +6,7 @@ You can see the several iterations the wing went through in the following videos
 
 Tiny whoop controller in Tiny Whoop format:
 https://www.youtube.com/watch?v=xWtqxx2DlH4
-![Alt text](pictures/maxresdefault (01).jpg?raw=true "Wing 1")
+![Alt text](pictures/wing1.jpg?raw=true "Wing 1")
 
 
 

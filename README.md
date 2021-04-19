@@ -5,7 +5,7 @@ These are the plans for a 3" flying wing.
 You can see the several iterations the wing went through in the following videos:
 
 Tiny whoop controller in Tiny Whoop format:
-[img]https://i.ytimg.com/vi/kKS4U-Gmyd8/maxresdefault.jpg[/img]
+![Alt text](https://i.ytimg.com/vi/kKS4U-Gmyd8/maxresdefault.jpg?raw=true "Wing 1)
 https://www.youtube.com/watch?v=xWtqxx2DlH4
 
 Fully manual:
